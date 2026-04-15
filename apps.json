@@ -1,32 +1,29 @@
 [
   {
-    "id": "package-manager",
-    "name": "Package Manager",
-    "package": "com.smartpack.packagemanager",
-    "version": "7.6",
-    "description": "A powerful application to manage your apps!",
-    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.smartpack.packagemanager.apk",
-    "icon_url": "https://raw.githubusercontent.com/paswotz/mg4-launcher-apps/main/icons/package-manager.png",
-    "size_bytes": 2727936
+    "id": "netflix",
+    "name": "Netflix",
+    "package": "com.netflix.movie.apk",
+    "version": "9.61.0",
+    "description": "All movies and TV shows from Netflix now on Android",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.netflix.movie.apk",
+    "size_bytes": 184500650
   },
   {
-    "id": "waze",
-    "name": "Waze",
-    "package": "com.example.meineapp",
-    "version": "1.0.0",
-    "description": "Kurze Beschreibung der App",
-    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/app.apk",
-    "icon_url": "https://raw.githubusercontent.com/paswotz/mg4-launcher-apps/main/icons/waze.png",
-    "size_bytes": 5000000
+    "id": "youtube",
+    "name": "YouTube",
+    "package": "com.google.android.youtube.apk",
+    "version": "21.14.485",
+    "description": "Get the official YouTube app on Android phones and tablets.",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.google.android.youtube.apk",
+    "size_bytes": 183527852
   },
   {
-    "id": "abrp",
-    "name": "A Better Routeplanner",
-    "package": "com.iternio.abrpapp",
-    "version": " 7.0.5",
-    "description": "Optimize your EV journey with efficient routes...",
-    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.iternio.abrp.apkm",
-    "icon_url": "https://raw.githubusercontent.com/paswotz/mg4-launcher-apps/main/icons/abrp.png",
-    "size_bytes": 127969276
+    "id": "spotify",
+    "name": "Spotify",
+    "package": "com.spotify.music.apk",
+    "version": "9.1.40.1482",
+    "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free.",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.spotify.music.apk",
+    "size_bytes": 129474393
   }
 ]
