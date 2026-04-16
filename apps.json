@@ -2,16 +2,16 @@
   {
     "id": "netflix",
     "name": "Netflix",
-    "package": "com.netflix.movie.apk",
+    "package": "com.netflix.mediaclient",
     "version": "9.61.0",
     "description": "All movies and TV shows from Netflix now on Android",
-    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.netflix.movie.apk",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.netflix.mediaclient.apk",
     "size_bytes": 184500650
   },
   {
     "id": "youtube",
     "name": "YouTube",
-    "package": "com.google.android.youtube.apk",
+    "package": "com.google.android.youtube",
     "version": "21.14.485",
     "description": "Get the official YouTube app on Android phones and tablets.",
     "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.google.android.youtube.apk",
@@ -20,7 +20,7 @@
   {
     "id": "spotify",
     "name": "Spotify",
-    "package": "com.spotify.music.apk",
+    "package": "com.spotify.music",
     "version": "9.1.40.1482",
     "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free.",
     "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.spotify.music.apk",
@@ -29,10 +29,10 @@
   {
     "id": "mgcontrol",
     "name": "MGControl",
-    "package": "MGControl2.5.0.apk",
+    "package": "com.mg4.control",
     "version": "2.5.0",
     "description": "MG4Control is a system-level application designed for Android Automotive OS, intended to run on the head unit of MG4 electric vehicles equipped with the SAIC MT2712 SoC. It provides direct, unified access to driving settings that are unavailable — or poorly accessible — through the stock manufacturer interface.",
-    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/MGControl2.5.0.apk",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.mg4.control.apk",
     "size_bytes": 15903071
   }
 ]
