@@ -1,5 +1,14 @@
 [
   {
+    "id": "mg4launcher",
+    "name": "MG4Launcher",
+    "package": "com.saicmotor.launcher",
+    "version": "2.12.1",
+    "description": "Original ported MG4 MY26 (MCE25) Car Launcher",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.netflix.mediaclient.apk",
+    "size_bytes": 184500650
+  },
+  {
     "id": "netflix",
     "name": "Netflix",
     "package": "com.netflix.mediaclient",
